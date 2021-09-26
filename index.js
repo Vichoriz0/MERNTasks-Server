@@ -24,6 +24,7 @@ app.use(express.json({ extend: true }));
 const port = process.env.PORT || 4000;
 const host = process.env.HOST || '0.0.0.0';
 
+
 // Importar rutas
 app.use('/api/users', usersRouter);
 app.use('/api/auth', authRouter);
