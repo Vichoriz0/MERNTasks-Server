@@ -11,5 +11,6 @@
 - NodeJS
 - Express
 - MongoDB
+- Heroku (Back-end hosting)
 
 Link to page: _https://zealous-ardinghelli-57fe4f.netlify.app/_
