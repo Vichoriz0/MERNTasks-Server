@@ -1,7 +1,15 @@
-# MERN Tasks Backend #
+# MERN Tasks Backend 
 
-ENVIRONMENTAL VARIABLES:
+### ENVIRONMENTAL VARIABLES:
 
 - DB_MONGO
 - PORT
 - SECRET
+
+### TECHNOLOGIES USED
+
+- NodeJS
+- Express
+- MongoDB
+
+Link to page: _https://zealous-ardinghelli-57fe4f.netlify.app/_
